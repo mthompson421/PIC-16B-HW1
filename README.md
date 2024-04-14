@@ -41,7 +41,7 @@ Ensure you have these libraries installed before running the scripts.
 ## Repository Structure
 
 ### Visualization Examples
-The visualization.py script will output graphs that showcase the data's insights. For example:
+The script will output graphs that showcase the data's insights. For example:
 
 Average temperature comparison by country and month for decades 1901-1910 vs 2011-2020.
 Scatter plot with regression for individual countries.
